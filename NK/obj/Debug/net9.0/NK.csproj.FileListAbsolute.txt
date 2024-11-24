@@ -1,0 +1,15 @@
+C:\Users\Dark\Desktop\LeetCode\NK\bin\Debug\net9.0\NK.exe
+C:\Users\Dark\Desktop\LeetCode\NK\bin\Debug\net9.0\NK.deps.json
+C:\Users\Dark\Desktop\LeetCode\NK\bin\Debug\net9.0\NK.runtimeconfig.json
+C:\Users\Dark\Desktop\LeetCode\NK\bin\Debug\net9.0\NK.dll
+C:\Users\Dark\Desktop\LeetCode\NK\bin\Debug\net9.0\NK.pdb
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.AssemblyInfoInputs.cache
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.AssemblyInfo.cs
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.csproj.CoreCompileInputs.cache
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.sourcelink.json
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.dll
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\refint\NK.dll
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.pdb
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\NK.genruntimeconfig.cache
+C:\Users\Dark\Desktop\LeetCode\NK\obj\Debug\net9.0\ref\NK.dll

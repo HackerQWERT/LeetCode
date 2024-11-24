@@ -1,0 +1,15 @@
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\bin\Debug\net9.0\RemovingElements.exe
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\bin\Debug\net9.0\RemovingElements.deps.json
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\bin\Debug\net9.0\RemovingElements.runtimeconfig.json
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\bin\Debug\net9.0\RemovingElements.dll
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\bin\Debug\net9.0\RemovingElements.pdb
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.AssemblyInfoInputs.cache
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.AssemblyInfo.cs
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.csproj.CoreCompileInputs.cache
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.sourcelink.json
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.dll
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\refint\RemovingElements.dll
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.pdb
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\RemovingElements.genruntimeconfig.cache
+C:\Users\Dark\Desktop\LeetCode\RemovingElements\obj\Debug\net9.0\ref\RemovingElements.dll
