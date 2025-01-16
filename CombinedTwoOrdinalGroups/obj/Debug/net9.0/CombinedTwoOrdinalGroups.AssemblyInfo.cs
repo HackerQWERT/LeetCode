@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombinedTwoOrdinalGroups")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94504ff7128d4a10c3e3879402bef6ebbe4a881e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b069405d8e43ef1e666de70aef0a76e9624817a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombinedTwoOrdinalGroups")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombinedTwoOrdinalGroups")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
