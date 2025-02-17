@@ -1,8 +1,11 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 public class 电话号码的字母组合
 {
+
+    StringBuilder sb = new StringBuilder();
     List<string> res = new List<string>();
     Dictionary<char, string> dict = new Dictionary<char, string>()
     {
@@ -15,25 +18,31 @@ public class 电话号码的字母组合
         {'8', "tuv"},
         {'9', "wxyz"}
     };
+    string digits;
     public IList<string> LetterCombinations(string digits)
     {
 
+        this.digits = digits;
         if (digits.Length == 0)
             return res;
-        DFS(digits, 0, "");
+        DFS(0);
         return res;
     }
 
-    private void DFS(string digits, int index, string result)
+    private void DFS(int index)
     {
         if (index == digits.Length)
         {
-            res.Add(result);
+            res.Add(sb.ToString());
             return;
         }
         char num = digits[index];
         foreach (char c in dict[num])
-            DFS(digits, index + 1, result + c);
+        {
+            sb.Append(c);
+            DFS(index + 1);
+            sb.Length--;
+        }
     }
 
 }
